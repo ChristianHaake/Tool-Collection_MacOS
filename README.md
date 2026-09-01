@@ -6,30 +6,74 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 ## Kategorien
 
-- [Produktivität](categories/produktivitaet.md) – Aufgaben, Notizen, Zeit, Dateien und Zusammenarbeit
-- [Entwicklung](categories/entwicklung.md) – Programmierung, Infrastruktur und technische Werkzeuge
-- [Sicherheit](categories/sicherheit.md) – Schutz, Analyse und sichere Arbeitsweisen
-- [Medien](categories/medien.md) – Bild, Audio, Video und kreative Arbeit
-- [Systempflege](categories/systempflege.md) – Installation, Wartung, Diagnose und Backups
-- [Kommunikation](categories/kommunikation.md) – Nachrichten, Meetings und Austausch
+- [Produktivität](#produktivität) – Aufgaben, Notizen, Zeit, Dateien und Zusammenarbeit
+- [Entwicklung](#entwicklung) – Programmierung, Infrastruktur und technische Werkzeuge
+- [Sicherheit](#sicherheit) – Schutz, Analyse und sichere Arbeitsweisen
+- [Medien](#medien) – Bild, Audio, Video und kreative Arbeit
+- [Systempflege](#systempflege) – Installation, Wartung, Diagnose und Backups
+- [Kommunikation](#kommunikation) – Nachrichten, Meetings und Austausch
+- [Für Lehrkräfte](#für-lehrkräfte) – Unterricht, Rückmeldung, Planung und Schulalltag
 
-## So sind Empfehlungen aufgebaut
+## Produktivität
 
-Jedes Tool erhält, soweit verfügbar, diese Informationen:
+### [RevPDF](https://haak3.de/tools-apps/)
 
-- Kurzfazit und konkreter Einsatzzweck
-- Stärken und Grenzen
-- Geeignet für / weniger geeignet für
-- Preis- und Lizenzmodell
-- Datenschutz-Hinweise
-- Sinnvolle Alternativen
-- Letzte redaktionelle Prüfung
+- **Zweck:** Plattformübergreifender PDF-Editor für Bearbeitung, OCR, Formulare, Konvertierungen und Schwärzungen.
+- **Warum hier:** Die lokale Verarbeitung macht ihn für vertrauliche Dokumente besonders interessant.
+
+### [Rocket Typist](https://haak3.de/tools-apps/)
+
+- **Zweck:** Texterweiterung für wiederkehrende Formulierungen mit frei definierten Kürzeln.
+- **Warum hier:** Sie spart Zeit bei standardisierten E-Mails, Kommentaren und anderen häufig genutzten Textbausteinen.
+
+## Entwicklung
+
+_Noch keine Empfehlungen._
+
+## Sicherheit
+
+_Noch keine Empfehlungen._
+
+## Medien
+
+### [noScribe](https://haak3.de/tools-apps/)
+
+- **Zweck:** Plattformübergreifende Open-Source-Anwendung für die lokale, KI-gestützte Transkription von Audio- und Videodateien.
+- **Warum hier:** Die Offline-Verarbeitung eignet sich besonders für sensible Gesprächs- und Forschungsdaten.
+
+## Systempflege
+
+### [Thaw](https://haak3.de/tools-apps/)
+
+- **Zweck:** Quelloffener Menüleisten-Manager für macOS, der überflüssige Symbole ausblendet und die Leiste übersichtlich hält.
+- **Warum hier:** Als aktiv gepflegter Fork von Ice ist er eine aktuelle Lösung für die tägliche Systemorganisation.
+
+### [Forel](https://haak3.de/tools-apps/)
+
+- **Zweck:** Kostenlose Open-Source-Anwendung für die regelbasierte Dateiautomatisierung unter macOS.
+- **Warum hier:** Sie überwacht definierte Ordner und organisiert Dateien lokal im Hintergrund.
+
+## Kommunikation
+
+_Noch keine Empfehlungen._
+
+## Für Lehrkräfte
+
+### [Prompter](https://haak3.de/tools-apps/)
+
+- **Zweck:** Browserbasierte Open-Source-Teleprompter-App für Präsentationen, Zeittraining und barrierearmes Lesen.
+- **Warum hier:** Skripte werden ohne Cloud-Anbindung direkt im Browser verarbeitet.
+
+### [Feedback-Generator](https://haak3.de/tools-apps/)
+
+- **Zweck:** Quelloffene Webanwendung zur Erstellung kriteriengeleiteter Feedback- und Bewertungsbögen.
+- **Warum hier:** Sie unterstützt die systematische Dokumentation von Lernprozessen und verarbeitet Eingaben lokal im Browser.
 
 ## Status der Informationen
 
 Die Sammlung führt technische Statusdaten, damit veraltete Angaben sichtbar werden. Dazu gehören etwa Erreichbarkeit, letzte Version oder Release, Repository-Aktivität, Lizenz, Plattform-Support und Preisangaben. Ein Status ersetzt keine redaktionelle Bewertung.
 
-Details zur Pflege und zu den automatisierten Prüfungen stehen in der [Wartungsdokumentation](docs/wartung.md).
+Details zu Automatisierung und redaktionellen Regeln stehen im [Hintergrunddokument](docs/automatisierung-und-regelwerk.md).
 
 ## Hinweise geben
 
