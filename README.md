@@ -36,6 +36,11 @@ _Noch keine Empfehlungen._
 
 ## Medien
 
+### [Flameshot](https://haak3.de/tools-apps/)
+
+- **Zweck:** Open-Source-Werkzeug für Bildschirmfotos und die direkte Annotation von Bildausschnitten.
+- **Warum hier:** Es verbindet präzise Aufnahme und Bearbeitung ohne unnötigen Umweg über externe Dienste.
+
 ### [noScribe](https://haak3.de/tools-apps/)
 
 - **Zweck:** Plattformübergreifende Open-Source-Anwendung für die lokale, KI-gestützte Transkription von Audio- und Videodateien.

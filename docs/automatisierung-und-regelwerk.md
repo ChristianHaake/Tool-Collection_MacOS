@@ -27,3 +27,7 @@ Statusdaten werden künftig automatisiert geprüft. Erfasst werden nur überprü
 - Preis- oder Tarifangaben, soweit öffentlich verfügbar
 
 Die technische Prüfung beurteilt nicht, ob ein Tool weiterhin empfehlenswert ist. Das bleibt eine redaktionelle Entscheidung.
+
+## Synchronisation zwischen Plattformen
+
+Plattformübergreifende Tools werden in beiden Repositories mit derselben Kategorie, Beschreibung und Verlinkung geführt. Werkzeuge mit echtem Plattformbezug bleiben ausschließlich in der passenden Sammlung.
