@@ -16,6 +16,36 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 ## Produktivität
 
+### [OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme](https://stadt-bremerhaven.de/openscreen-kostenlose-open-source-software-fuer-die-bildschirmaufnahme/)
+
+- **Zweck:** Software-Tool mit Bezug zu OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme.
+- **Warum hier:** Es ist im Browser lauffaehig.
+
+### [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync)
+
+- **Zweck:** A native macOS menu bar app for seamless Google Drive syncing.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz.
+
+### [Moodle Designer: Mehr Barrierefreiheit per Copy & Paste](https://lernsachen.blog/2026/03/08/moodle-designer-mehr-barrierefreiheit-per-copy-paste/)
+
+- **Zweck:** Moodle Designer: Mehr Barrierefreiheit per Copy &amp; Paste &#8211; LernSachen Zum Inhalt springen Menü Alle Beiträge iPad Basics Große Neuigkeiten mit iPadOS im Herbst iPadOS13 Multitouch Gesten iOS 12 Basics iOS11 Basics auf dem iPad iPad Basics Geführter Zugriff Basics Über d.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar.
+
+### [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/blob/master/README.md)
+
+- **Zweck:** Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project..
+- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz, mit grosser aktiver Community.
+
+### [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)
+
+- **Zweck:** A meeting note-taker that talks back..
+- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz, mit aktiver Community.
+
+### [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+
+- **Zweck:** GitHub - sw33tLie/macshot: Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription. · GitHub Skip to content Navigation Menu Sign in Appearance settings.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar.
+
 ### [RevPDF](https://haak3.de/tools-apps/)
 
 - **Zweck:** Plattformübergreifender PDF-Editor für Bearbeitung, OCR, Formulare, Konvertierungen und Schwärzungen.
@@ -47,6 +77,11 @@ _Noch keine Empfehlungen._
 - **Warum hier:** Die Offline-Verarbeitung eignet sich besonders für sensible Gesprächs- und Forschungsdaten.
 
 ## Systempflege
+
+### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+
+- **Zweck:** Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter AGPL-3.0-Lizenz, mit grosser aktiver Community.
 
 ### [Thaw](https://haak3.de/tools-apps/)
 
