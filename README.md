@@ -56,6 +56,11 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 - **Zweck:** Texterweiterung für wiederkehrende Formulierungen mit frei definierten Kürzeln.
 - **Warum hier:** Sie spart Zeit bei standardisierten E-Mails, Kommentaren und anderen häufig genutzten Textbausteinen.
 
+### [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors)
+
+- **Zweck:** Freie Desktop-Office-Suite mit Document-, Spreadsheet-, Presentation- und PDF-Editor sowie Diagram-Viewer; voll offline-fähig und kompatibel mit .docx/.xlsx/.pptx.
+- **Warum hier:** Vollständige Office-Suite ohne Cloud-Zwang, AGPL-lizenziert und nativ für macOS verfügbar – schließt die lokale Office-Lücke in der Sammlung.
+
 ## Entwicklung
 
 _Noch keine Empfehlungen._
