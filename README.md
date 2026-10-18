@@ -71,6 +71,11 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 - **Zweck:** Moderner Archiv-Manager für macOS zum Durchsuchen und selektiven Extrahieren von Archiven ohne vollständiges Entpacken.
 - **Warum hier:** Schlanke Open-Source-Alternative (GPL-3.0) zu BetterZip mit nativer Apple-Silicon-Unterstützung und Vorschau für über 40 Archivformate.
 
+### [Sill](https://getsill.app)
+
+- **Zweck:** Spiegelt einzelne Mac-Fenster oder den gesamten Desktop mit Touch-, Tastatur- und Apple-Pencil-Unterstützung auf iPhone und iPad.
+- **Warum hier:** Vollständig quelloffenes, direktes Streaming über das lokale Netzwerk oder USB-Kabel – ohne Server, Account-Zwang oder Cloud-Dienste.
+
 ## Entwicklung
 
 _Noch keine Empfehlungen._
