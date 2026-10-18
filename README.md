@@ -61,6 +61,16 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 - **Zweck:** Freie Desktop-Office-Suite mit Document-, Spreadsheet-, Presentation- und PDF-Editor sowie Diagram-Viewer; voll offline-fähig und kompatibel mit .docx/.xlsx/.pptx.
 - **Warum hier:** Vollständige Office-Suite ohne Cloud-Zwang, AGPL-lizenziert und nativ für macOS verfügbar – schließt die lokale Office-Lücke in der Sammlung.
 
+### [EdgeMark](https://github.com/Ender-Wang/EdgeMark)
+
+- **Zweck:** Native macOS-Seitenleisten-App für Markdown-Notizen, die per Tastenkürzel oder Bildschirmrand-Geste einblendet.
+- **Warum hier:** Quelloffene (GPL-3.0) Alternative zu SideNotes mit nativer TextKit-2-Engine, reinen lokalen `.md`-Dateien und ohne Cloud-Zwang.
+
+### [MacPacker](https://macpacker.app/en)
+
+- **Zweck:** Moderner Archiv-Manager für macOS zum Durchsuchen und selektiven Extrahieren von Archiven ohne vollständiges Entpacken.
+- **Warum hier:** Schlanke Open-Source-Alternative (GPL-3.0) zu BetterZip mit nativer Apple-Silicon-Unterstützung und Vorschau für über 40 Archivformate.
+
 ## Entwicklung
 
 _Noch keine Empfehlungen._
