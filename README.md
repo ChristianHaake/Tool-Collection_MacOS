@@ -96,6 +96,11 @@ _Noch keine Empfehlungen._
 - **Zweck:** Plattformübergreifende Open-Source-Anwendung für die lokale, KI-gestützte Transkription von Audio- und Videodateien.
 - **Warum hier:** Die Offline-Verarbeitung eignet sich besonders für sensible Gesprächs- und Forschungsdaten.
 
+### [Voicebox](https://github.com/jamiepine/voicebox)
+
+- **Zweck:** Lokales KI-Sprachstudio für Stimmen-Klonen, Sprachsynthese, systemweites Diktieren und Audio-Interaktion mit KI-Agenten.
+- **Warum hier:** Bietet eine quelloffene, datenschutzfreundliche Alternative zu ElevenLabs, die hardwarebeschleunigt vollständig lokal auf macOS und Linux läuft.
+
 ## Systempflege
 
 ### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
