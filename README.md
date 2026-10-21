@@ -6,30 +6,17 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 ## Kategorien
 
-- [Produktivität](#produktivität) – Aufgaben, Notizen, Zeit, Dateien und Zusammenarbeit
-- [Entwicklung](#entwicklung) – Programmierung, Infrastruktur und technische Werkzeuge
-- [Sicherheit](#sicherheit) – Schutz, Analyse und sichere Arbeitsweisen
-- [Medien](#medien) – Bild, Audio, Video und kreative Arbeit
-- [Systempflege](#systempflege) – Installation, Wartung, Diagnose und Backups
-- [Kommunikation](#kommunikation) – Nachrichten, Meetings und Austausch
+- [Büro & Produktivität](#büro--produktivität) – Office, Notizen, Zeit, Finanzen und Zusammenarbeit
+- [Entwicklung](#entwicklung) – Programmierung, Editoren, Terminal und technische Werkzeuge
+- [Dateien & Synchronisation](#dateien--synchronisation) – Dateimanager, lokaler Transfer und Cloud/P2P-Sync
+- [Internet & Kommunikation](#internet--kommunikation) – Browser, E-Mail, Chat und PIM
+- [Medien & Kreation](#medien--kreation) – Bild, Audio, Video, Screen Capture und DTP
+- [Sicherheit & Privatsphäre](#sicherheit--privatsphäre) – Passwortmanager, Sandboxing und Mesh-VPN
+- [Backup & Wiederherstellung](#backup--wiederherstellung) – Snapshots, inkrementelle Sicherung und Klonen
+- [System & Desktop](#system--desktop) – Anwendungsstarter, Window-Management, Hardware und Virtualisierung
 - [Für Lehrkräfte](#für-lehrkräfte) – Unterricht, Rückmeldung, Planung und Schulalltag
 
-## Produktivität
-
-### [OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme](https://stadt-bremerhaven.de/openscreen-kostenlose-open-source-software-fuer-die-bildschirmaufnahme/)
-
-- **Zweck:** Software-Tool mit Bezug zu OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme.
-- **Warum hier:** Es ist im Browser lauffaehig.
-
-### [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync)
-
-- **Zweck:** A native macOS menu bar app for seamless Google Drive syncing.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz.
-
-### [Moodle Designer: Mehr Barrierefreiheit per Copy & Paste](https://lernsachen.blog/2026/03/08/moodle-designer-mehr-barrierefreiheit-per-copy-paste/)
-
-- **Zweck:** Moodle Designer: Mehr Barrierefreiheit per Copy &amp; Paste &#8211; LernSachen Zum Inhalt springen Menü Alle Beiträge iPad Basics Große Neuigkeiten mit iPadOS im Herbst iPadOS13 Multitouch Gesten iOS 12 Basics iOS11 Basics auf dem iPad iPad Basics Geführter Zugriff Basics Über d.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar.
+## Büro & Produktivität
 
 ### [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/blob/master/README.md)
 
@@ -40,11 +27,6 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 - **Zweck:** A meeting note-taker that talks back..
 - **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz, mit aktiver Community.
-
-### [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
-
-- **Zweck:** GitHub - sw33tLie/macshot: Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription. · GitHub Skip to content Navigation Menu Sign in Appearance settings.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar.
 
 ### [RevPDF](https://haak3.de/tools-apps/)
 
@@ -66,25 +48,37 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 - **Zweck:** Native macOS-Seitenleisten-App für Markdown-Notizen, die per Tastenkürzel oder Bildschirmrand-Geste einblendet.
 - **Warum hier:** Quelloffene (GPL-3.0) Alternative zu SideNotes mit nativer TextKit-2-Engine, reinen lokalen `.md`-Dateien und ohne Cloud-Zwang.
 
+## Entwicklung
+
+_Noch keine Empfehlungen._
+
+## Dateien & Synchronisation
+
+### [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync)
+
+- **Zweck:** A native macOS menu bar app for seamless Google Drive syncing.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz.
+
 ### [MacPacker](https://macpacker.app/en)
 
 - **Zweck:** Moderner Archiv-Manager für macOS zum Durchsuchen und selektiven Extrahieren von Archiven ohne vollständiges Entpacken.
 - **Warum hier:** Schlanke Open-Source-Alternative (GPL-3.0) zu BetterZip mit nativer Apple-Silicon-Unterstützung und Vorschau für über 40 Archivformate.
 
-### [Sill](https://getsill.app)
-
-- **Zweck:** Spiegelt einzelne Mac-Fenster oder den gesamten Desktop mit Touch-, Tastatur- und Apple-Pencil-Unterstützung auf iPhone und iPad.
-- **Warum hier:** Vollständig quelloffenes, direktes Streaming über das lokale Netzwerk oder USB-Kabel – ohne Server, Account-Zwang oder Cloud-Dienste.
-
-## Entwicklung
+## Internet & Kommunikation
 
 _Noch keine Empfehlungen._
 
-## Sicherheit
+## Medien & Kreation
 
-_Noch keine Empfehlungen._
+### [OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme](https://stadt-bremerhaven.de/openscreen-kostenlose-open-source-software-fuer-die-bildschirmaufnahme/)
 
-## Medien
+- **Zweck:** Software-Tool mit Bezug zu OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme.
+- **Warum hier:** Es ist im Browser lauffaehig.
+
+### [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
+
+- **Zweck:** GitHub - sw33tLie/macshot: Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription. · GitHub Skip to content Navigation Menu Sign in Appearance settings.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar.
 
 ### [Flameshot](https://haak3.de/tools-apps/)
 
@@ -101,7 +95,20 @@ _Noch keine Empfehlungen._
 - **Zweck:** Lokales KI-Sprachstudio für Stimmen-Klonen, Sprachsynthese, systemweites Diktieren und Audio-Interaktion mit KI-Agenten.
 - **Warum hier:** Bietet eine quelloffene, datenschutzfreundliche Alternative zu ElevenLabs, die hardwarebeschleunigt vollständig lokal auf macOS und Linux läuft.
 
-## Systempflege
+## Sicherheit & Privatsphäre
+
+_Noch keine Empfehlungen._
+
+## Backup & Wiederherstellung
+
+_Noch keine Empfehlungen._
+
+## System & Desktop
+
+### [Sill](https://getsill.app)
+
+- **Zweck:** Spiegelt einzelne Mac-Fenster oder den gesamten Desktop mit Touch-, Tastatur- und Apple-Pencil-Unterstützung auf iPhone und iPad.
+- **Warum hier:** Vollständig quelloffenes, direktes Streaming über das lokale Netzwerk oder USB-Kabel – ohne Server, Account-Zwang oder Cloud-Dienste.
 
 ### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 
@@ -118,11 +125,12 @@ _Noch keine Empfehlungen._
 - **Zweck:** Kostenlose Open-Source-Anwendung für die regelbasierte Dateiautomatisierung unter macOS.
 - **Warum hier:** Sie überwacht definierte Ordner und organisiert Dateien lokal im Hintergrund.
 
-## Kommunikation
-
-_Noch keine Empfehlungen._
-
 ## Für Lehrkräfte
+
+### [Moodle Designer: Mehr Barrierefreiheit per Copy & Paste](https://lernsachen.blog/2026/03/08/moodle-designer-mehr-barrierefreiheit-per-copy-paste/)
+
+- **Zweck:** Moodle Designer: Mehr Barrierefreiheit per Copy &amp; Paste &#8211; LernSachen Zum Inhalt springen Menü Alle Beiträge iPad Basics Große Neuigkeiten mit iPadOS im Herbst iPadOS13 Multitouch Gesten iOS 12 Basics iOS11 Basics auf dem iPad iPad Basics Geführter Zugriff Basics Über d.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar.
 
 ### [Prompter](https://haak3.de/tools-apps/)
 
