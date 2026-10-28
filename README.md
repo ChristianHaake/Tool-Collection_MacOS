@@ -1,5 +1,7 @@
 # Tool-Collection macOS
 
+![Lizenz](https://img.shields.io/badge/Lizenz-CC%20BY--SA%204.0-blue) ![Plattform](https://img.shields.io/badge/Plattform-macOS-informational) ![Kuratiert](https://img.shields.io/badge/kuratiert-ja-brightgreen)
+
 Eine kuratierte Sammlung von Tools für macOS. Sie hilft dabei, für eine konkrete Aufgabe passende Software zu finden – mit einer nachvollziehbaren Einordnung statt bloßer Linklisten.
 
 Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen Anspruch darauf, eine vollständige Marktübersicht oder ein objektives Ranking zu sein.
@@ -20,33 +22,27 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 ### [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/blob/master/README.md)
 
-- **Zweck:** Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project..
-- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz, mit grosser aktiver Community.
+Aufgabenverwaltung mit Timeboxing und Zeiterfassung, inklusive Anbindung an Jira, GitLab, GitHub und OpenProject.
 
 ### [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats)
 
-- **Zweck:** A meeting note-taker that talks back..
-- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz, mit aktiver Community.
+Meeting-Notizen-Assistent, der das Gespräch begleitet und Rückmeldung gibt.
 
 ### [RevPDF](https://haak3.de/tools-apps/)
 
-- **Zweck:** Plattformübergreifender PDF-Editor für Bearbeitung, OCR, Formulare, Konvertierungen und Schwärzungen.
-- **Warum hier:** Die lokale Verarbeitung macht ihn für vertrauliche Dokumente besonders interessant.
+PDF-Editor mit OCR, Formularen, Konvertierung und Schwärzung, der lokal arbeitet.
 
 ### [Rocket Typist](https://haak3.de/tools-apps/)
 
-- **Zweck:** Texterweiterung für wiederkehrende Formulierungen mit frei definierten Kürzeln.
-- **Warum hier:** Sie spart Zeit bei standardisierten E-Mails, Kommentaren und anderen häufig genutzten Textbausteinen.
+Texterweiterung für wiederkehrende Formulierungen mit eigenen Kürzeln.
 
 ### [Euro-Office/DesktopEditors](https://github.com/Euro-Office/DesktopEditors)
 
-- **Zweck:** Freie Desktop-Office-Suite mit Document-, Spreadsheet-, Presentation- und PDF-Editor sowie Diagram-Viewer; voll offline-fähig und kompatibel mit .docx/.xlsx/.pptx.
-- **Warum hier:** Vollständige Office-Suite ohne Cloud-Zwang, AGPL-lizenziert und nativ für macOS verfügbar – schließt die lokale Office-Lücke in der Sammlung.
+Freie Office-Suite (AGPL) mit Text, Tabellen, Präsentationen und PDF; offline nutzbar und kompatibel mit .docx, .xlsx und .pptx.
 
 ### [EdgeMark](https://github.com/Ender-Wang/EdgeMark)
 
-- **Zweck:** Native macOS-Seitenleisten-App für Markdown-Notizen, die per Tastenkürzel oder Bildschirmrand-Geste einblendet.
-- **Warum hier:** Quelloffene (GPL-3.0) Alternative zu SideNotes mit nativer TextKit-2-Engine, reinen lokalen `.md`-Dateien und ohne Cloud-Zwang.
+Markdown-Notizen in der Seitenleiste, per Tastenkürzel oder Bildschirmrand-Geste einblendbar; lokale .md-Dateien, GPL-3.0.
 
 ## Entwicklung
 
@@ -56,13 +52,11 @@ _Noch keine Empfehlungen._
 
 ### [GoogleDriveSync](https://github.com/saihgupr/GoogleDriveSync)
 
-- **Zweck:** A native macOS menu bar app for seamless Google Drive syncing.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz.
+Native Menüleisten-App für die Synchronisation mit Google Drive.
 
 ### [MacPacker](https://macpacker.app/en)
 
-- **Zweck:** Moderner Archiv-Manager für macOS zum Durchsuchen und selektiven Extrahieren von Archiven ohne vollständiges Entpacken.
-- **Warum hier:** Schlanke Open-Source-Alternative (GPL-3.0) zu BetterZip mit nativer Apple-Silicon-Unterstützung und Vorschau für über 40 Archivformate.
+Archiv-Manager zum Durchsuchen und selektiven Entpacken, mit Vorschau für über 40 Formate; GPL-3.0.
 
 ## Internet & Kommunikation
 
@@ -70,30 +64,25 @@ _Noch keine Empfehlungen._
 
 ## Medien & Kreation
 
-### [OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme](https://stadt-bremerhaven.de/openscreen-kostenlose-open-source-software-fuer-die-bildschirmaufnahme/)
+### [OpenScreen](https://github.com/siddharthvaddem/openscreen)
 
-- **Zweck:** Software-Tool mit Bezug zu OpenScreen: Kostenlose Open-Source-Software für die Bildschirmaufnahme.
-- **Warum hier:** Es ist im Browser lauffaehig.
+Open-Source-Bildschirmaufnahme mit Nachbearbeitung, gedacht als freie Alternative zu Screen Studio.
 
 ### [sw33tLie/macshot](https://github.com/sw33tLie/macshot)
 
-- **Zweck:** GitHub - sw33tLie/macshot: Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription. · GitHub Skip to content Navigation Menu Sign in Appearance settings.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar.
+Native Screenshot- und Aufnahme-App mit Annotation, automatischer Schwärzung personenbezogener Daten, GIF-Aufnahme, OCR und Scroll-Capture.
 
 ### [Flameshot](https://haak3.de/tools-apps/)
 
-- **Zweck:** Open-Source-Werkzeug für Bildschirmfotos und die direkte Annotation von Bildausschnitten.
-- **Warum hier:** Es verbindet präzise Aufnahme und Bearbeitung ohne unnötigen Umweg über externe Dienste.
+Open-Source-Werkzeug für Bildschirmfotos mit direkter Annotation.
 
 ### [noScribe](https://haak3.de/tools-apps/)
 
-- **Zweck:** Plattformübergreifende Open-Source-Anwendung für die lokale, KI-gestützte Transkription von Audio- und Videodateien.
-- **Warum hier:** Die Offline-Verarbeitung eignet sich besonders für sensible Gesprächs- und Forschungsdaten.
+Lokale, KI-gestützte Transkription von Audio- und Videodateien; offline und damit auch für sensible Gespräche geeignet.
 
 ### [Voicebox](https://github.com/jamiepine/voicebox)
 
-- **Zweck:** Lokales KI-Sprachstudio für Stimmen-Klonen, Sprachsynthese, systemweites Diktieren und Audio-Interaktion mit KI-Agenten.
-- **Warum hier:** Bietet eine quelloffene, datenschutzfreundliche Alternative zu ElevenLabs, die hardwarebeschleunigt vollständig lokal auf macOS und Linux läuft.
+Lokales KI-Sprachstudio für Stimmklonen, Sprachsynthese und systemweites Diktieren; Open-Source-Alternative zu ElevenLabs.
 
 ## Sicherheit & Privatsphäre
 
@@ -107,40 +96,33 @@ _Noch keine Empfehlungen._
 
 ### [Sill](https://getsill.app)
 
-- **Zweck:** Spiegelt einzelne Mac-Fenster oder den gesamten Desktop mit Touch-, Tastatur- und Apple-Pencil-Unterstützung auf iPhone und iPad.
-- **Warum hier:** Vollständig quelloffenes, direktes Streaming über das lokale Netzwerk oder USB-Kabel – ohne Server, Account-Zwang oder Cloud-Dienste.
+Spiegelt einzelne Mac-Fenster oder den ganzen Desktop auf iPhone und iPad, mit Touch- und Pencil-Bedienung; ohne Server und Account.
 
 ### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 
-- **Zweck:** Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar, unter AGPL-3.0-Lizenz, mit grosser aktiver Community.
+Echtzeit-Dashboard für Nachrichten, Geopolitik und Infrastruktur mit KI-gestützter Aggregation; AGPL-3.0.
 
 ### [Thaw](https://haak3.de/tools-apps/)
 
-- **Zweck:** Quelloffener Menüleisten-Manager für macOS, der überflüssige Symbole ausblendet und die Leiste übersichtlich hält.
-- **Warum hier:** Als aktiv gepflegter Fork von Ice ist er eine aktuelle Lösung für die tägliche Systemorganisation.
+Menüleisten-Manager, der überflüssige Symbole ausblendet; gepflegter Fork von Ice.
 
 ### [Forel](https://haak3.de/tools-apps/)
 
-- **Zweck:** Kostenlose Open-Source-Anwendung für die regelbasierte Dateiautomatisierung unter macOS.
-- **Warum hier:** Sie überwacht definierte Ordner und organisiert Dateien lokal im Hintergrund.
+Regelbasierte Dateiautomatisierung, die definierte Ordner überwacht und Dateien lokal organisiert.
 
 ## Für Lehrkräfte
 
-### [Moodle Designer: Mehr Barrierefreiheit per Copy & Paste](https://lernsachen.blog/2026/03/08/moodle-designer-mehr-barrierefreiheit-per-copy-paste/)
+### [Moodle Designer](https://lernsachen.blog/2026/03/08/moodle-designer-mehr-barrierefreiheit-per-copy-paste/)
 
-- **Zweck:** Moodle Designer: Mehr Barrierefreiheit per Copy &amp; Paste &#8211; LernSachen Zum Inhalt springen Menü Alle Beiträge iPad Basics Große Neuigkeiten mit iPadOS im Herbst iPadOS13 Multitouch Gesten iOS 12 Basics iOS11 Basics auf dem iPad iPad Basics Geführter Zugriff Basics Über d.
-- **Warum hier:** Es ist plattformuebergreifend nutzbar.
+Hilft, Moodle-Inhalte per Copy & Paste barrierefreier zu gestalten (Beitrag auf LernSachen).
 
 ### [Prompter](https://haak3.de/tools-apps/)
 
-- **Zweck:** Browserbasierte Open-Source-Teleprompter-App für Präsentationen, Zeittraining und barrierearmes Lesen.
-- **Warum hier:** Skripte werden ohne Cloud-Anbindung direkt im Browser verarbeitet.
+Browserbasierter Teleprompter für Präsentationen und Zeittraining; Skripte bleiben lokal.
 
 ### [Feedback-Generator](https://haak3.de/tools-apps/)
 
-- **Zweck:** Quelloffene Webanwendung zur Erstellung kriteriengeleiteter Feedback- und Bewertungsbögen.
-- **Warum hier:** Sie unterstützt die systematische Dokumentation von Lernprozessen und verarbeitet Eingaben lokal im Browser.
+Webanwendung für kriteriengeleitete Feedback- und Bewertungsbögen; verarbeitet Eingaben lokal im Browser.
 
 ## Status der Informationen
 
@@ -150,4 +132,17 @@ Details zu Automatisierung und redaktionellen Regeln stehen im [Hintergrunddokum
 
 ## Hinweise geben
 
-Fehlt ein Tool, ist eine Information falsch oder fehlt ein wichtiger Einsatzzweck? Bitte ein Issue mit Tool-Name, Link, Kategorie und kurzer Begründung eröffnen.
+Fehlt ein Tool, ist eine Information falsch oder fehlt ein wichtiger Einsatzzweck? Bitte ein [Issue](https://github.com/ChristianHaake/Tool-Collection_MacOS/issues/new) mit Tool-Name, Link, Kategorie und kurzer Begründung eröffnen.
+
+## Verwandte Sammlungen
+
+- [Tool-Collection_Linux](https://github.com/ChristianHaake/Tool-Collection_Linux) – Tools für Linux
+- [AI-Skills-Plugins-Collection](https://github.com/ChristianHaake/AI-Skills-Plugins-Collection) – Skills, Plugins und MCP-Server für KI-Agenten
+
+## Kontakt
+
+Christian Haake · [haak3.de](https://haak3.de) · [GitHub](https://github.com/ChristianHaake)
+
+## Lizenz
+
+CC BY-SA 4.0, siehe [LICENSE](LICENSE).
