@@ -9,11 +9,12 @@ Empfohlen werden nur Tools, die aus praktischer Nutzung sinnvoll erscheinen und 
 ## Format einer Empfehlung
 
 ```md
-### Toolname
+### [Toolname](https://link-zur-primaerquelle)
 
-- **Zweck:** Wofür das Tool gedacht ist und welches konkrete Problem es löst.
-- **Warum hier:** Warum du es empfiehlst – mit der wichtigsten Stärke oder Einschränkung.
+Ein bis zwei kurze Sätze: wofür das Tool gedacht ist und was es auszeichnet.
 ```
+
+Die Beschreibung ist knapp und auf Deutsch gehalten. Der Link zeigt nach Möglichkeit auf die Primärquelle (Projektseite oder Repository).
 
 ## Technische Statusprüfung
 
