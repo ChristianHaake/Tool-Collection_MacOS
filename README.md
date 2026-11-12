@@ -20,6 +20,11 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 ## Büro & Produktivität
 
+### [TEST-Multica-Intake: Approved-PR-Flow (safe to close)](https://github.com/koekeishiya/yabai)
+
+- **Zweck:** GitHub - asmvik/yabai: A tiling window manager for macOS based on binary space partitioning · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated wor.
+- **Warum hier:** Es ist plattformuebergreifend nutzbar.
+
 ### [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/blob/master/README.md)
 
 Aufgabenverwaltung mit Timeboxing und Zeiterfassung, inklusive Anbindung an Jira, GitLab, GitHub und OpenProject.
