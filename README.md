@@ -20,6 +20,11 @@ Die Empfehlungen werden aus praktischer Nutzung kuratiert. Sie erheben keinen An
 
 ## Büro & Produktivität
 
+### [NeoHtop](https://abdenasser.github.io/neohtop/)
+
+- **Zweck:** Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte).
+- **Warum hier:** Knuepft an das bewaehrte btop-Konzept an, modern neu umgesetzt, und ist plattformuebergreifend nutzbar, unter einer freizuegigen Open-Source-Lizenz, mit grosser aktiver Community.
+
 ### [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity/blob/master/README.md)
 
 Aufgabenverwaltung mit Timeboxing und Zeiterfassung, inklusive Anbindung an Jira, GitLab, GitHub und OpenProject.
